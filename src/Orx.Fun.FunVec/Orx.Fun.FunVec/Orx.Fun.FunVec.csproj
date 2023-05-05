@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+	<PropertyGroup>
+		<VersionPrefix>1.0.0</VersionPrefix>
+		<Description>Unified functional collections for C# allowing access by index.</Description>
+		<PackageProjectUrl>https://orxfun.github.io/orx-fun-funvec/</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/orxfun/orx-fun-funvec</RepositoryUrl>
+		<Authors>ugur-arikan</Authors>
+		<PackageTags>vector;jagged;array;functional;collection</PackageTags>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="..\..\..\README.md">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+	</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Orx.Fun.Option" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

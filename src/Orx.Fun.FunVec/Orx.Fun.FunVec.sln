@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orx.Fun.FunVec", "Orx.Fun.FunVec\Orx.Fun.FunVec.csproj", "{D26A42F3-ED2D-40D3-B2E1-31282ED131B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26A42F3-ED2D-40D3-B2E1-31282ED131B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26A42F3-ED2D-40D3-B2E1-31282ED131B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26A42F3-ED2D-40D3-B2E1-31282ED131B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26A42F3-ED2D-40D3-B2E1-31282ED131B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F61A86A4-FE4F-4F3D-89C7-4D920F6E7406}
+	EndGlobalSection
+EndGlobal
