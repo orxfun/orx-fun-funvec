@@ -1,2 +1,2 @@
 # orx-fun-funvec
-Unified functional collections allowing access by index.
+Unified functional collections for C# allowing access by index.
